@@ -1,0 +1,2 @@
+# Lazy Evaluation Gotcha in Haskell
+This example demonstrates a potential issue with Haskell's lazy evaluation.  Improper handling of infinite lists or deeply recursive structures can result in unexpected behavior or infinite loops. The solution provides techniques to mitigate these issues.
